@@ -1,6 +1,10 @@
 -- Hidden Portfolio Optimize
 -- Domain: Finance
--- My solution query
+-- Level: Master
+-- BleepxQuery SwiftLink Training Program
+--
+-- Attempts: 10
+-- Date: 3/2/2026
 
 WITH TickerMetrics AS (
   SELECT 
