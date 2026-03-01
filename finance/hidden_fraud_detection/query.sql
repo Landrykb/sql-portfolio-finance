@@ -1,6 +1,10 @@
 -- Hidden Fraud Detection
 -- Domain: Finance
--- My solution query
+-- Level: Master
+-- BleepxQuery SwiftLink Training Program
+--
+-- Attempts: 4
+-- Date: 3/1/2026
 
 WITH MarketAvg AS (
   SELECT
